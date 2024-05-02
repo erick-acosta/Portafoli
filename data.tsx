@@ -49,14 +49,14 @@ export const itemsNavbar = [
 export const dataAboutPage = [
     {
         id: 1,
-        title: "Frontend Developer",
+        title: "Fullstack  Developer",
         subtitle: "ST DIGITAL COMPUTER",
         description: "Responsable de crear la apariencia y la funcionalidad de las interfaces de usuario de los productos. Para ello, diseño e implemento interfaces de usuario web y móviles, implemento animaciones y efectos visuales, colaboro con el equipo de desarrolladores back-end para crear nuevas API, integro diferentes tecnologías y bibliotecas, y trabajo con diseñadores y desarrolladores back-end..",
         date: "Enero 2023 ",
     },
     {
         id: 2,
-        title: "Desarrollador de front-end",
+        title: "Desarrollador de Fullstack",
         subtitle: "Profesional Independiente",
         description: "Como desarrollador web, soy responsable del desarrollo y mantenimiento de sitios y aplicaciones web. Para ello, diseño e implemento interfaces web y aplicaciones móviles utilizando HTML5, CSS, JavaScript y frameworks como React y Angular. También trabajo con diseñadores para crear interfaces de usuario atractivas y funcionales, y para crear prototipos y diseños.",
         date: "Nov  2020",
